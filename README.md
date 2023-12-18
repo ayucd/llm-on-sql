@@ -22,6 +22,8 @@ AtliQ Tees is a hypothetical T-shirt store that sells T-shirts from 4 brands: Ad
 
 ## Preview
 
+![Preview](https://github.com/ayucd/llm-on-sql/blob/main/Preview.png)
+
 ## Installation
 
 1. Create a local copy of this repository on your machine:
