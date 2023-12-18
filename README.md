@@ -58,9 +58,15 @@ Here are a few sample queries and the corresponding answers by the search engine
 
 **Sample Query 1**
 
+![Sample Query 1](https://github.com/ayucd/llm-on-sql/blob/main/Sample1.png)
+
 **Sample Query 2**
 
+![Sample Query 2](https://github.com/ayucd/llm-on-sql/blob/main/Preview.png)
+
 **Sample Query 3**
+
+![Sample Query 3](https://github.com/ayucd/llm-on-sql/blob/main/Preview.png)
 
 ## Repository Structure
 
@@ -72,7 +78,7 @@ Here are a few sample queries and the corresponding answers by the search engine
 
 ## About the Author
 
-This search engine was built by me [Ayushi Chaudhary](https://github.com/ayucd). Feel free to reach out to me at ayucha.ap@gmail.com for any queries on the project.
+This search engine was built by me, [Ayushi Chaudhary](https://github.com/ayucd). Feel free to reach out to me at ayucha.ap@gmail.com for any queries on the project.
 
 
 
