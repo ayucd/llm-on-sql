@@ -28,7 +28,21 @@ AtliQ Tees is a hypothetical T-shirt store that sells T-shirts from 4 brands: Ad
 ```
 git clone https://github.com/ayucd/llm-on-sql.git
 ```
-2.  
+2. Go to the project directory:
+```
+cd llm-on-sql
+```
+3. Install the required dependencies using pip:
+```
+pip install -r requirements.txt
+```
+4. Acquire an API key through makersuite.google.com and put it in the .env file:
+```
+GOOGLE_API_KEY="your_api_key_here"
+```
+5. Run database/db_creation_atliq_t_shirts.sql in your MySQL workbench to set up the database.
+
+
 
 
 
