@@ -78,7 +78,7 @@ Here are a few sample queries and the corresponding answers by the search engine
 
 ## About the Author
 
-This search engine was built by me, [Ayushi Chaudhary](https://github.com/ayucd). Feel free to reach out to me at ayucha.ap@gmail.com for any queries on the project.
+This search engine was built by me, [Ayushi Chaudhary](https://github.com/ayucd). Feel free to reach out to me at ayucha.ap@gmail.com for any queries on the project!
 
 
 
