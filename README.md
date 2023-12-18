@@ -3,13 +3,28 @@ This is an end-to-end search engine that is designed to interact with a MySQL da
 
 # Index
 1. [Background](#background)
-2. [Project Roadmap](#project-timeline)
+2. [Project Timeline](#project-timeline)
 3. [Preview](#preview)
 4. [Installation](#installation)
 5. [Run Locally](#run-locally)
 6. [Sample Queries](#sample-queries)
 7. [Repository Structure](#repository-structure)
 8. [About the author](#about-the-author)
+
+# Background
+AtliQ Tees is a hypothetical T-Shirt store that sells T-shirts from 4 brands: Adidas, Nike, Levi’s and Van Heusen. The data related to the store’s inventory, sales and discounts is stored in a MySQL database. Here we are building an LLM-based query system that uses the following technologies to answer questions based on the database:
+* LangChain as our framework
+* Google PaLM
+* Few-shot learning
+* Hugging Face for embedding generation
+* ChromaDB as vector store
+* Streamlit for UI
+In the UI, the store manager can type questions in natural language, and the system will generate the answers.
+
+# 
+
+
+
 
 
 
