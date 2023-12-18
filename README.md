@@ -62,11 +62,11 @@ Here are a few sample queries and the corresponding answers by the search engine
 
 **Sample Query 2**
 
-![Sample Query 2](https://github.com/ayucd/llm-on-sql/blob/main/Preview.png)
+![Sample Query 2](https://github.com/ayucd/llm-on-sql/blob/main/Sample2.png)
 
 **Sample Query 3**
 
-![Sample Query 3](https://github.com/ayucd/llm-on-sql/blob/main/Preview.png)
+![Sample Query 3](https://github.com/ayucd/llm-on-sql/blob/main/Sample3.png)
 
 ## Repository Structure
 
