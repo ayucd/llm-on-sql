@@ -44,6 +44,8 @@ GOOGLE_API_KEY="your_api_key_here"
 ```
 5. Run database/db_creation_atliq_t_shirts.sql in your MySQL workbench to set up the database.
 
+**NOTE:** You may also need to replace the db_password in the llm_helper.py file with the password of your MySQL database.
+
 ## Run Locally
 
 1. Run the Stramlit UI for the engine by using:
