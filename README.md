@@ -38,7 +38,7 @@ cd llm-on-sql
 ```
 pip install -r requirements.txt
 ```
-4. Acquire an API key through makersuite.google.com and put it in the .env file:
+4. Acquire an API key through makersuite.google.com and put it in the secret_key.py file:
 ```
 GOOGLE_API_KEY="your_api_key_here"
 ```
@@ -74,7 +74,7 @@ Here are a few sample queries and the corresponding answers by the search engine
 * llm_helper.py: This has all the LangChain code.
 * requirements.txt: The list of required Python packages for the project.
 * few_shots.py: Contains the few-shot prompts.
-* .env: Configuration file for storing the Google API key.
+* secret_key.py: File for storing the Google API key.
 
 ## About the Author
 
